@@ -1,0 +1,47 @@
+.right-box {
+
+    width: 75%;
+    font-family: "Lucida Handwriting", cursive;
+    font-size: 40px;
+    
+}
+
+.right-image {
+    background-color: #f7cdd0;
+}
+
+.flex-box {
+    display: flex;
+}
+
+    #left-box {
+    background-color: pink;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: center;
+    align-content: flex-start;
+    height: 100vh;
+    width: 25%;
+}
+
+#instagram  {
+    color: purple
+
+}
+
+#main-page{
+    display: flex;
+    flex-direction: row;
+}
+
+#logo{
+    border-radius:50% ;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+
+}
+
+.menu-pics img{
+    width: 500px;
+}
